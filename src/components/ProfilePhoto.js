@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import mypic from './tyronpic.jpeg'
+import mypic from 'images/tyronpic.jpeg'
 const Styles = styled.div`
 height: 100;
 radius: 50;
