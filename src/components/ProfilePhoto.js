@@ -13,7 +13,7 @@ text-align:center;
 export const ProfilePhoto = () => {
     return (
         <div>
-            <h2>Tyron Samarooo</h2>
+            <h2>Tyron Samaroo</h2>
             <Styles>
                 <img src={'./images/tyronpic.jpeg'} alt={"mypic" }/>
             </Styles>

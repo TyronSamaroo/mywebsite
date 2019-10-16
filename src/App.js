@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {NavBar} from './components/NavBar';
 import {Intro} from './components/Intro';
 import {ProfilePhoto} from './components/ProfilePhoto';
-
+import {Project} from './components/Project';
 
 class App extends Component{
   render(){
@@ -15,6 +15,7 @@ class App extends Component{
        <NavBar/>
        <ProfilePhoto/>
        <Intro/>
+       <Project/>
        
        <h2>Hello</h2>
      </div>
